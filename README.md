@@ -1,3 +1,4 @@
+# ![Mandelpow5](screenshots/Mandelbrot_power_5.png)
 ## Fract_ol
 The objective of the project was to render different fractals and being able to zoom indefinitely in it. It was an individual school project, made from scratch and entirely in C.
 
@@ -57,3 +58,14 @@ Fractal list :
 - **` B `** to increase blur
 - **` N `** to decrease blur
 - **` M `** to reset blur
+
+## Screenshots
+# ![1](screenshots/Julneg_power_6.png)
+# ![3](screenshots/Mandelbrot_power_5_2.png)
+# ![4](screenshots/Mandelneg_power_5.png)
+# ![5](screenshots/Mandelneg_power_6.png)
+# ![6](screenshots/Mandisk_power_6.png)
+# ![7](screenshots/Moz.png)
+# ![8](screenshots/Moz_2.png)
+# ![9](screenshots/Moz_3.png)
+# ![10](screenshots/Newton.png)
