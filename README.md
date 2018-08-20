@@ -1,5 +1,6 @@
 # ![Mandelpow5](screenshots/Mandelbrot_power_5.png)
 ## Fract_ol
+Made during **_march 2018_**<br>
 The objective of the project was to render different fractals and being able to zoom indefinitely in it. It was an individual school project, made from scratch and entirely in C.
 
 ## Installing
