@@ -64,7 +64,6 @@ Fractal list :
 # ![3](screenshots/Mandelbrot_power_5_2.png)
 # ![4](screenshots/Mandelneg_power_5.png)
 # ![5](screenshots/Mandelneg_power_6.png)
-# ![6](screenshots/Mandisk_power_6.png)
 # ![7](screenshots/Moz.png)
 # ![8](screenshots/Moz_2.png)
 # ![9](screenshots/Moz_3.png)
